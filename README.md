@@ -238,3 +238,12 @@ You might notice that there are [some missing translations here](docs/README.md#
 ## License
 
 Each file included in this repository is licensed under the [CC BY License](LICENSE).
+
+---
+
+### Créditos e fonte original
+
+Este repositório é um fork de [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books), criado e mantido pelos autores originais. Todo o crédito é deles.  
+Licença: Creative Commons Attribution 4.0 International (mantida sem alterações).
+
+**Fonte original:** https://github.com/EbookFoundation/free-programming-books
